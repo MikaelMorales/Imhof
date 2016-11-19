@@ -10,4 +10,4 @@ Lausanne:
 ![alt text](https://github.com/MikaelMorales/Imhof/blob/master/lausanne.png)
 
 Berne:
-![alt text]https://github.com/MikaelMorales/Imhof/blob/master/berne.png
+![alt text](https://github.com/MikaelMorales/Imhof/blob/master/berne.png)
